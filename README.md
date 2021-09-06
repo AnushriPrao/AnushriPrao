@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnushriPrao
 - 👀 I’m interested in Machine Learning, Deep learning, Computer Vision
-- 🌱 I’m currently learning above mentioned domains
-- 💞️ I’m looking to collaborate on projects in the mentioned fields
-- 📫 How to reach me: anushripsagar@gmail.cpm
+- 🌱 I’m currently looking for the job opportunities as a Data Scientist
+- 💞️ I like to code on new challenges
+- 📫 How to reach me: anushripsagar@gmail.com
 
 <!---
 AnushriPrao/AnushriPrao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
